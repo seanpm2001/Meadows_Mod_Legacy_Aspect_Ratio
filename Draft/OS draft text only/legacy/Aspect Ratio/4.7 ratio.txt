@@ -1,0 +1,4 @@
+You have chosen a low ratio level
+4:7
+this is recommended for viewing very low quality images/videos that aren't as compatible with more modern resolutions
+this can be changed if you don't like it
