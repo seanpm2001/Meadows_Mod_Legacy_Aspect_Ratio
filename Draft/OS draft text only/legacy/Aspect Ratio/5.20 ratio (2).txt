@@ -1,0 +1,7 @@
+You have chosen a low ratio level
+5:20
+however, this is a very wide ratio
+this ratio is specially designed for panoramic videos, photos, and graphics
+if you are not on the proper display, scrolling may be required
+this is recommended for viewing very low quality images/videos that aren't as compatible with more modern resolutions
+this can be changed if you don't like it
